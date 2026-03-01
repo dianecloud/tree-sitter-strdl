@@ -42,6 +42,8 @@ require("strudel-integration")
 
 Run the following to install the parsers schemas:
 
+## ises: dianesterling11@gmail.com
+
 ```bash
 npm run local_install
 ```
